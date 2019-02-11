@@ -1,5 +1,7 @@
 # Free-Courses-on-Data-Science
 
+![alt_text](https://github.com/harshitahluwalia7895/Free-Courses-on-Data-Science/blob/master/Free%20courses%20based%20on%20(1).jpg)
+
 ##### <code>1. [A comprehensive Learning Path to become Data Scientist in 2019](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+LPDS2019+LPDS2019_T1/about?utm_source=linkedinHA&utm_medium=blog)</code>
 
 ##### <code>2. [Experiments with Data](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+EWD01+2018_EWD_T1/about?utm_source=linkedinHA&utm_medium=blog)</code>
